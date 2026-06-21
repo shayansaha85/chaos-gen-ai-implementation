@@ -1,0 +1,5 @@
+pymongo
+psutil
+google-generativeai
+markdown2
+pyyaml
